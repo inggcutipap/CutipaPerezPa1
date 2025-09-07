@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".fragment.ejercicios.NumeroAleatorioFragment">
+
+    <!-- TODO: Update blank fragment layout -->
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:gravity="center"
+            android:layout_margin="20dp">
+
+            <Button
+                android:id="@+id/btnGenerar"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Generar Número"
+                />
+
+
+            <TextView
+                android:id="@+id/tvResultado"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/respuesta"
+                style="@style/estilo_tv_rsp"
+                android:paddingTop="24dp"
+                android:gravity="center"
+                />
+        </LinearLayout>
+    </ScrollView>
+
+</FrameLayout>

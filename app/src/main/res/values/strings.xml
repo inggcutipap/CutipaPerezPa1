@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Cutipa Perez Pa1</string>
+    <string name="title_activity_menu_principal">MenuPrincipalActivity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Producto Academico Nro 1</string>
+    <string name="nav_header_subtitle">Universidad Continental</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Configuración</string>
+
+
+    <string name="menu_area_triangulo">Área Triángulo</string>
+    <string name="ladoA">Lado A:</string>
+    <string name="ladoB">Lado B:</string>
+    <string name="ladoC">Lado C:</string>
+    <string name="respuesta">Resultado</string>
+    <string name="menu_numero_aleatorio">Número Aleatorio</string>
+    <string name="numbinario">Numero Binario:</string>
+    <string name="menu_convertir_binario">Convertir Binario</string>
+    <string name="numHexadecimal">Número Hexadecimal</string>
+    <string name="menu_convertir_hexadecimal">Convertir Hexadecimal</string>
+    <string name="menu_acerca">ACERCA</string>
+</resources>
